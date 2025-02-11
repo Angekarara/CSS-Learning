@@ -29,11 +29,11 @@ ul {
 .alternate {
   box-sizing: border-box;
 }
-.container{
+.container {
   border: 5px solid blue;
-  margin: 80px;
+  margin: 40px;
 }
-.box1{
+.box1 {
   border: 5px solid rebeccapurple;
   background-color: lightgray;
   padding: 10px;
@@ -43,4 +43,16 @@ ul {
   margin-right: 30px;
   margin-bottom: 40px;
   margin-left: 4em;
+}
+p {
+  border: 5px solid rebeccapurple;
+  background-color: lightgray;
+  padding: 10px;
+}
+.one {
+  margin-bottom: 50px;
+}
+
+.two {
+  margin-top: 30px;
 }
