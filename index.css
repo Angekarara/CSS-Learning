@@ -56,14 +56,14 @@ p {
 .two {
   margin-top: 30px;
 }
-.container2{
+.container2 {
   margin: 40px;
   padding: 20px;
-  border-top: 5px dotted green;
+  border-top: 5px dotted rgb(16, 234, 16);
   border-right: 1px solid black;
   border-bottom: 20px double rgb(23 45 145);
 }
-.box2{
+.box2 {
   padding: 20px;
   background-color: lightgray;
   border: 1px solid #333333;
